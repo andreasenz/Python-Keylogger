@@ -10,7 +10,6 @@
 <h1>References</h1>
 <ul>
   <li><a href="https://en.wikipedia.org/wiki/Keystroke_logging">Wikipedia</a></li>
-  <li><a href="https://www.geeksforgeeks.org/design-a-keylogger-in-python/">This</a> article</li>
 </ul>
 
 <h1>Disclaimer<h1>
